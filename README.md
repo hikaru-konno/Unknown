@@ -2,7 +2,7 @@
   <img src="img/Tamagochi_logo.png" alt="Tamagochi Logo" width="200px" height="200px">
 </p>
 
-<h1 align="center"> Tamagochi </h1>
+<h1 align="center"> a </h1>
 <h3 align="center"> wiiuのゲーム中に任意の画像を表示できる仕組み</h3>
 
 <p align="center"> 
